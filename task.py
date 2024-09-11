@@ -2,9 +2,7 @@ def task():
 
     result = ["Matthew", "Mark", "Luke"]
 
-    # Code here
-
-    # --------- #
-
+    name = input("pls put nam): ")
+    result.append(name)
 
     return result
